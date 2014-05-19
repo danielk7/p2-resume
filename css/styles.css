@@ -31,7 +31,7 @@ header:after{
 }
 
 h1{
-  font: 55px 'roboto', sans-serif;
+  font: 60px 'roboto', sans-serif;
   font-weight:300;
   color:#48484A;
   text-align:center;
@@ -55,7 +55,7 @@ nav {
 nav ul {
   margin:0;
   margin-top:0px;
-  margin-right:60px;
+  margin-right:45px;
   padding:40;
 }
 
