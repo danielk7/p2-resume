@@ -108,7 +108,7 @@ h3 {
 	color: #48484A;
 	font-size: 28px;
 	color: orange;
-	font-family: 'Balthazar', serif;
+	font-family: 'roboto', sans-serif;
 	font-weight: bold;
 	margin-top: 15px;
 	letter-spacing: 4px;
@@ -136,8 +136,8 @@ h4 {
 
 h3 {
 	color: #48484A;
-	font-size: 28px;
-	font-family: 'Balthazar', serif;
+	font-size: 25px;
+	font-family: 'roboto', sans-serif;
 	font-weight: bold;
 	margin-top: 15px;
 
